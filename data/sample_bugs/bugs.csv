@@ -1,0 +1,6 @@
+title,status ,reopen_count,days_open
+Login timeout on high load,open,5,120
+NullPointerException in payment flow,open,4,90
+Database connection pool exhausted,known_issue,3,200
+Login timeout on high load duplicate,closed,2,45
+Memory leak in session handler,open,6,150

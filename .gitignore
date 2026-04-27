@@ -1,0 +1,7 @@
+target/
+*.class
+*.jar
+.idea/
+*.iml
+data/sample_commits/
+.DS_Store
